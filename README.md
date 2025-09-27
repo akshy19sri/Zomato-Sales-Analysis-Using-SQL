@@ -1,4 +1,6 @@
 # Zomato-Sales-Analysis-Using-SQL
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/f254c227-cca1-4eeb-ac82-833771174a2c" />
+
 1.Project Overview:
 
 This project involved the development and analysis of a structured SQL database for Zomato restaurant data. The primary objective was to create a clean, normalized dataset that supports meaningful business insights related to restaurant performance, customer preference, and market trends across different regions. Key activities included data cleaning, enrichment, transformation, and advanced SQL querying to facilitate in-depth analytics.
